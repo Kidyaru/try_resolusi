@@ -3,11 +3,14 @@ Rencana Konten
 - Javascript
   * ES6
   * Framework Javascript
-   ^ Vue
-   ^ React
+    ^ Vue
+    ^ React
 - Struktur Data Dasar
 - php framework
-   ^ Laravel
+    ^ Laravel
+    ^ React
+- php framework
+    ^ Laravel
 - Interview
 - Vlogs
-   ^ Python
+    ^ Python
